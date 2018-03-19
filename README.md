@@ -1,2 +1,2 @@
 # CrewBot-V2
-python2 CrewBot.pyc
+python2 CrewBotV2.pyc
